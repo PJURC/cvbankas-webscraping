@@ -1,0 +1,52 @@
+tvarkingą
+dokumentuoti
+dokumentacija
+naujovėmis
+learner
+quality
+agile
+analytic
+analitiškai
+analytical
+administration
+administravimo
+ieškoti
+problem-solving
+attentiveness
+code design
+automatizavimo
+debugging
+testing
+troubleshooting
+evaluating
+testavimo
+testavimas
+rašymas
+scripting
+database
+observability
+linux
+rest
+tests
+web servers
+websockets
+written code
+optimizing
+infrastructure-as-code
+tracing
+open-source
+windows
+infrastructure as code
+best-practices
+best practices
+automation
+continuous integration
+continuous delivery
+macros
+power bi
+powerbi
+tabeau
+m365
+microsoft exchange
+ms365
+ms intune
